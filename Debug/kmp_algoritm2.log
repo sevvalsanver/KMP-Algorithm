@@ -1,0 +1,4 @@
+﻿  Source1.c
+C:\Users\user\Desktop\kodlama çalışmaları\ödevler\odev4_KMP algorithm\odev4_181180062_Şevvalİrem_SANVER C Kodu\kmp_algoritm2\Source1.c(50,61): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\user\Desktop\kodlama çalışmaları\ödevler\odev4_KMP algorithm\odev4_181180062_Şevvalİrem_SANVER C Kodu\kmp_algoritm2\Source1.c(50,61): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  kmp_algoritm2.vcxproj -> C:\Users\user\Desktop\kodlama çalışmaları\ödevler\odev4_KMP algorithm\odev4_181180062_Şevvalİrem_SANVER C Kodu\Debug\kmp_algoritm2.exe
